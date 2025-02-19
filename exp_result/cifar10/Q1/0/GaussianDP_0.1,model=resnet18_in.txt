@@ -1,0 +1,32 @@
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.6896|0.0
+==stopping_iter:1072==stopping_time:1514.8698198795319==stopping_commu_cost:41.74072265625
+===== iter 97 ====
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.6876|0.0
+==stopping_iter:1072==stopping_time:2197.468996524811==stopping_commu_cost:41.74072265625
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.8048|0.0
+==stopping_iter:349==stopping_time:717.1066288948059==stopping_commu_cost:13.592529296875
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.785|0.0
+==stopping_iter:491==stopping_time:773.0505585670471==stopping_commu_cost:19.112548828125
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.785|0.0
+==stopping_iter:491==stopping_time:875.2178111076355==stopping_commu_cost:19.112548828125
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.785|0.0
+==stopping_iter:491==stopping_time:740.4904172420502==stopping_commu_cost:19.112548828125
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|30|No_Attack|None|0.785|0.0
+==stopping_iter:491==stopping_time:795.4671761989594==stopping_commu_cost:19.112548828125
+===== iter 97 ====
+== commu:FedSGD

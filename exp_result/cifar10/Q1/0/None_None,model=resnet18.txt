@@ -1,0 +1,35 @@
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|1024|0.001000|2|1|0|30|No_Attack|None|0.944|0.0
+==stopping_iter:11==stopping_time:38.260716676712036==stopping_commu_cost:0.168212890625
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|1024|0.001000|2|1|0|30|No_Attack|None|0.9285|0.0
+==stopping_iter:11==stopping_time:55.20451545715332==stopping_commu_cost:0.168212890625
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|1024|0.001000|2|1|0|30|No_Attack|None|0.9455|0.0
+==stopping_iter:11==stopping_time:37.43496918678284==stopping_commu_cost:0.168212890625
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|label_recovery_rate,2|1024|0.001000|2|1|0|30|DirectionbasedScoring|None|0.9455|1.0|1.0
+===== iter 97 ====
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|512|0.001000|10|1|0|100|No_Attack|None|0.8085|0.0
+==stopping_iter:349==stopping_time:679.5840394496918==stopping_commu_cost:13.592529296875
+===== iter 97 ====
+== commu:FedSGD
+===== iter 97 ====
+===== iter 97 ====
+== commu:FedSGD

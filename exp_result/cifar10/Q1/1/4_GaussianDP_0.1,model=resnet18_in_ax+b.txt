@@ -1,0 +1,12 @@
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|1024|0.001000|10|1|1|30|No_Attack|None|0.7014|0.0
+==stopping_iter:268==stopping_time:1676.238050699234==stopping_commu_cost:62.611083984375
+===== iter 97 ====
+===== iter 97 ====
+== commu:FedSGD
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.8003|0.0
+==stopping_iter:653==stopping_time:276.41523003578186==stopping_commu_cost:9.5654296875
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.8219|0.0
+==stopping_iter:603==stopping_time:350.7829854488373==stopping_commu_cost:8.8330078125

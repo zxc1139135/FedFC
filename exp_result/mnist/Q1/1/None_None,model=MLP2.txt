@@ -1,0 +1,12 @@
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|1024|0.010000|10|1|1|30|No_Attack|None|0.9727|0.0
+==stopping_iter:176==stopping_time:2.429335117340088==stopping_commu_cost:13.6865234375
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|attack_lr|main_task_acc|label_recovery_rate,2|1024|0.010000|10|1|1|30|BatchLabelReconstruction|0.05|0.9727|0.1474609375
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|label_recovery_rate,2|1024|0.010000|10|1|1|30|DirectLabelScoring|None|0.9727|0.09765625
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,2|1024|0.010000|10|1|1|30|No_Attack|None|0.9727|0.0
+==stopping_iter:176==stopping_time:2.3872878551483154==stopping_commu_cost:13.6865234375
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|attack_lr|main_task_acc|label_recovery_rate,2|1024|0.010000|10|1|1|30|BatchLabelReconstruction|0.05|0.9727|0.1474609375
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|label_recovery_rate,2|1024|0.010000|10|1|1|30|DirectLabelScoring|None|0.9727|0.09765625

@@ -1,0 +1,84 @@
+{
+    "epochs": 30,
+    "lr": 0.001,
+    "k": 11,
+    "batch_size": 512,
+    "communication":{
+        "communication_protocol": "FedSGD",
+        "iteration_per_aggregation": 1
+    },
+    "dataset":{
+        "dataset_name": "cifar10",
+        "num_classes": 10
+    },
+    "model_list":{
+        "0": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "1": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "2": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "3": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "4": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "5": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "6": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "7": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "8": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "9": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "10": {
+            "type": "resnet18",
+            "input_dim": 512,
+            "output_dim": 10,
+            "path": "random_20"
+        },
+        "apply_trainable_layer": 0,
+        "global_model": "ClassificationModelHostHead"
+    }
+}

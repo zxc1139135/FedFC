@@ -1,0 +1,20 @@
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.6834|0.0
+==stopping_iter:2824==stopping_time:1183.7228209972382==stopping_commu_cost:41.334228515625
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.6951|0.0
+==stopping_iter:2034==stopping_time:728.0693850517273==stopping_commu_cost:29.77294921875
+===== iter 97 ====
+===== iter 97 ====
+== commu:FedSGD
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.6033|0.0
+==stopping_iter:8622==stopping_time:4918.081650972366==stopping_commu_cost:126.177978515625
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.6033|0.0
+==stopping_iter:8622==stopping_time:5158.4716329574585==stopping_commu_cost:126.177978515625
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|64|0.010000|10|1|1|30|No_Attack|None|0.6972|0.0
+==stopping_iter:2006==stopping_time:2119.6076095104218==stopping_commu_cost:29.36279296875

@@ -1,0 +1,6 @@
+===== iter 97 ====
+== commu:FedSGD
+K|bs|LR|num_class|Q|top_trainable|epoch|attack_name|None|main_task_acc|acc_loss,4|512|0.001000|10|1|0|30|No_Attack|None|0.6271|0.0
+==stopping_iter:1391==stopping_time:4089.092989206314==stopping_commu_cost:162.44384765625
+===== iter 97 ====
+== commu:FedSGD
